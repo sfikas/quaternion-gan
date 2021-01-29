@@ -1,7 +1,9 @@
 # Paper code for "Quaternion Generative Adversarial Networks for Inscription Detection in Byzantine Monuments"
 
 
-This repository contains source code for the paper "Quaternion Generative Adversarial Networks for Inscription Detection in Byzantine Monuments" by Sfikas et al. (PatReCH 2020).
+This repository contains source code for the paper "
+[Quaternion Generative Adversarial Networks for Inscription Detection in Byzantine Monuments](http://cs.uoi.gr/~sfikas/icprw-quaternion-gan.pdf)
+" by Sfikas et al. (PatReCH 2020).
 
 ![QGAN results](figure.png "Sample")
 
