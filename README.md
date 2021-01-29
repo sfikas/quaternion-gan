@@ -1,6 +1,5 @@
 # Paper code for "Quaternion Generative Adversarial Networks for Inscription Detection in Byzantine Monuments"
 
-
 This repository contains source code for the paper "
 [Quaternion Generative Adversarial Networks for Inscription Detection in Byzantine Monuments](http://cs.uoi.gr/~sfikas/icprw-quaternion-gan.pdf)
 " by Sfikas et al. (PatReCH 2020).
@@ -8,7 +7,8 @@ This repository contains source code for the paper "
 ![QGAN results](figure.png "Sample")
 
 The main executable is ```quaternion-gan.py```, which will train the model using data found in the ```fixtures/``` folder.
-*The Byzantine inscription data used for the paper experiments will be uploaded soon.*
+You can use the code by supplying your own data, which should come in pairs of image (png) and annotation (npz) files (see BessarionMini class for details).
+*The Byzantine inscription data used for the paper experiments will be uploaded together with an upcoming publication.*
 
 If you find the paper and/or the code useful, please cite the paper using the following bibtex code:
 
