@@ -1,0 +1,7 @@
+__pycache__/
+fixtures/bessarion-midi/*
+!fixtures/bessarion-midi/text_nontext
+fixtures/bessarion-midi/text_nontext/*
+!fixtures/bessarion-midi/*resampled*
+!fixtures/bessarion-midi/text_nontext/*resampled*
+results/
