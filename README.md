@@ -19,7 +19,6 @@ Unzip the tgz file so that a ```fixtures/bessarion-midi``` folder is created und
 
 The main executable is ```quaternion-gan.py```, which will train the model using data found in the ```fixtures/``` folder.
 You can use the code by supplying your own data, which should come in pairs of image (png) and annotation (npz) files (see BessarionMini class for details).
-*The Byzantine inscription data used for the paper experiments will be uploaded together with an upcoming publication.*
 
 If you find the paper and/or the code useful, please cite the paper using the following bibtex code:
 
