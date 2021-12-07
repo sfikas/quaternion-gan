@@ -10,11 +10,15 @@ This repository contains source code for the paper "
 
 Please follow first the instructions in https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks to install the Quaternion Convolution layer code.
 
+## Dataset
+
+The data used for the paper may be downloaded from https://drive.google.com/file/d/1tDjFgLaDxl7gcOw9NPfWjAl3sCNvEhyv/view?usp=sharing  .
+Unzip the tgz file so that a ```fixtures/bessarion-midi``` folder is created under the repository home directory.
+
 ## Code execution
 
 The main executable is ```quaternion-gan.py```, which will train the model using data found in the ```fixtures/``` folder.
 You can use the code by supplying your own data, which should come in pairs of image (png) and annotation (npz) files (see BessarionMini class for details).
-*The Byzantine inscription data used for the paper experiments will be uploaded together with an upcoming publication.*
 
 If you find the paper and/or the code useful, please cite the paper using the following bibtex code:
 
