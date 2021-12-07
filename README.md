@@ -12,7 +12,7 @@ Please follow first the instructions in https://github.com/Orkis-Research/Pytorc
 
 ## Dataset
 
-The data used for the paper may be downloaded from https://drive.google.com/file/d/1tDjFgLaDxl7gcOw9NPfWjAl3sCNvEhyv/view?usp=sharing  .
+The data used for the paper may be downloaded from [this google drive link](https://drive.google.com/file/d/1tDjFgLaDxl7gcOw9NPfWjAl3sCNvEhyv/view?usp=sharing).
 Unzip the tgz file so that a ```fixtures/bessarion-midi``` folder is created under the repository home directory.
 
 ## Code execution
