@@ -8,7 +8,8 @@ This repository contains source code for the paper "
 
 ## Requirements
 
-Please follow first the instructions in https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks to install the Quaternion Convolution layer code.
+Use ``pip3 install -r requirements.txt`` (after creating a virtual environment optionally, followed by ``pip3 install --upgrade pip``).
+Subsequently, please follow first the instructions in https://github.com/Orkis-Research/Pytorch-Quaternion-Neural-Networks to install the Quaternion Convolution layer code.
 
 ## Dataset
 
